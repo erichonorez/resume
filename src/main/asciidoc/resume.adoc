@@ -8,7 +8,8 @@ TBC
 
 == Experiences
 
-=== Buy Way Services GEIE
+=== Technical Lead
+_Buy Way Services GEIE - 09/2018 to Current_
 
 Context: Buy Way Services GEIE is a company financed by Buy Way Personal Finance and Carrefour Finance to provide them IT solutions. Buy Way Personal Finance is a consumer loan company whose business model focus on providing financial solution to retail (e.g. Media Markt, Telenet, Ikea, Base, etc.). Carrefour Finance provides financing solutions to Carrefour's customer.
 
@@ -20,9 +21,6 @@ In short Buy Way Services GEIE develops and maintains IT solutions to :
 
 It represents an average of 600 new loans per days accross Belgium and Luxembourg.
 
-==== Technical Lead
-_Buy Way Services GEIE - 09/2018 - Current_
-
 Buy Way Personal Finance wanted to offer a generic solution for internet payment on e-commerce website. This project consist of implementing new origination flow exposing public APIs to partners in order to allow them to propose a new payment option when their customer checkout.
 
 My responsibilities were to:
@@ -30,9 +28,10 @@ My responsibilities were to:
 * design microservices APIs;
 * lead a developer team of 3.
 
-Technolgies: asciidoc.
+*Technologies: microservices, distributed systems, event sourcing, CQRS, Spring 4 stack (web, jdbc, jpa, thymeleaf, test), kafka, kong, git, maven, Jenkins, junit, mockito, cucumber, docker, linux, gerrit, html5, css, js, jquery, asciidoc.*
 
-==== Technical Lead / Software Architect - from 01/2017 - 09/2018
+=== Technical Lead / Software Architect
+_Buy Way Services GEIE - from 01/2017 to 09/2018_
 
 Buy Way Personal Finance wanted to reduce the operational cost of loan application by digitalising the process. The digitialisation reduces the human intervention on a loan application by:
 
@@ -47,14 +46,15 @@ My responsibilities were to:
 * design new services APIs;
 * analyse and estimate new loan application flow implementation;
 * organise the progressive migration from the monolithic application to this new architecture;
-* lead a developer team of 7;
+* lead team of 7 developers;
 * release and deploy the new components on the several environments;
 
 The target architecture is a event-driven microservice architecture based on Apache Kafka and Spring.
 
-Technologies: microservices, distributed systems, event sourcing, CQRS, Spring 4 stack (web, jdbc, jpa, thymeleaf, test), kafka, kong, git, maven, Jenkins, junit, mockito, cucumber, docker, linux, gerrit, html5, css, js, jquery, asciidoc.
+*Technologies: microservices, distributed systems, event sourcing, CQRS, Spring 4 stack (web, jdbc, jpa, thymeleaf, test), kafka, kong, git, maven, Jenkins, junit, mockito, cucumber, docker, linux, gerrit, html5, css, js, jquery, asciidoc.*
 
-==== Software developer from 05/2014 - 06/2017
+=== Software developer 
+_Buy Way Services GEIE - 05/2014 to 06/2017_
 
 My job was to analyse, estimate and implement new features for origination applications:
 
@@ -64,9 +64,10 @@ My job was to analyse, estimate and implement new features for origination appli
 * customisation of existing loan application flow for specific customers;
 
 
-Technolgies: JEE 7 stack (EJB, CDI, JMS, JPA, JAX-RS, JAX-B), Vaadin 6, maven, git, jenkins, oracle, junit, mockito, cucumber, selenium, Glassfish 3, Wildfly 10, docker, gerrit, linux.
+*Technolgies: JEE 7 stack (EJB, CDI, JMS, JPA, JAX-RS, JAX-B), Vaadin 6, maven, git, jenkins, oracle, junit, mockito, cucumber, selenium, Glassfish 3, Wildfly 10, docker, gerrit, linux.*
 
-==== Part time Release manager from 01/2016 - 06/2017
+=== Part time Release manager 
+_Buy Way Services GEIE - 01/2016 to 06/2017_
 
 Beside beeing software developer I also had to opportunity to be responsible of the release of our applications. We had two releases of our applications per month (hotfix versions not included). My responsibilities were to:
 
@@ -77,17 +78,17 @@ Beside beeing software developer I also had to opportunity to be responsible of 
 ** maintain and evolve the version control branching model depdending on the needs;
 ** code review.
 
-Technologies: maven, git, gerrit, linux.
+*Technologies: maven, git, gerrit, linux.*
 
-==== Part time scrum master from 01/2015 - 12/2015
+=== Part time scrum master
+_Buy Way Services GEIE - 01/2015 - 12/2015_
 
 Beside beeing software developer I had the opportunity to be the part time Scrum master of a team of 6 developers. My responsibilities were to be sure that Scrum practices were correctly applied. I organised the scrum ceremonies (daily stand-up, spring review, spring retrospective and spring planning), maintained the spring backlog and generated the sprint metrics (sprint burndown chart).
 
 Additionnally I also organised Scrum presentations for new developers.
 
-=== Adneom
-
-==== Full-stack Developer (Internal project) from 11/2013 - 05/2014
+=== Full-stack Developer
+_Adneom (internal project) - 11/2013 to 05/2014_
 
 To response to internal HR needs I’m in charge of implementing an internal web tool helping HR to improve the consultant’s evaluations during theirs missions and their career evolution. More especially my tasks were:
 
@@ -95,9 +96,10 @@ To response to internal HR needs I’m in charge of implementing an internal web
 * Writing functional and technical analysis
 * Integration of the tool inside the enterprise portal
 
-Technologies: REST API, HTML 5, JAVASCRIPT, CSS3, ANGULAR JS 1, JQUERY, LESS, TWITTER BOOTSTRAP, BOWER, RESPONSIVE DESIGN, MYSQL, JAVA, SPRING
+*Technologies: REST API, HTML 5, JAVASCRIPT, CSS3, ANGULAR JS 1, JQUERY, LESS, TWITTER BOOTSTRAP, BOWER, RESPONSIVE DESIGN, MYSQL, JAVA, SPRING*
 
-==== Web Developer at BNP Paribas Fortis from 06/2013 - 11/2013
+=== Web Developer 
+_BNP Paribas Fortis (as consultant for Adneom) - 06/2013 to 11/2013_
 
 In the Direct Channels  Planning & Development department, my role is to help to improve the multi-channels experience of customers and raise sales through digital channels. More especially my tasks are:
 
@@ -108,18 +110,20 @@ In the Direct Channels  Planning & Development department, my role is to help to
 * Landing pages integration (slicing)
 * Marketing email campaigns development
 
-Technologies: HTML5, JAVASCRIPT, CSS3, JQUERY, UNDERSCORE JS, ANGULAR JS, LESS, TWITTER BOOTSTRAP, RESPONSIVE DESIGN, MESSAGENT, PHOTOSHOP
+*Technologies: HTML5, JAVASCRIPT, CSS3, JQUERY, UNDERSCORE JS, ANGULAR JS, LESS, TWITTER BOOTSTRAP, RESPONSIVE DESIGN, MESSAGENT, PHOTOSHOP*
 
-==== Web Developer at BPOST from 05/2013 - 06/2013
+=== Web Developer
+_BPOST (as consultant for Adneom) - 05/2013 - 06/2013_
 
 Development of the BPOST IPO dedicated website. More especially my tasks was:
 
 * Design slicing and integration
 * Content integration
 
-Technologies: HTML, CSS, TWITTER BOOTSTRAP, JQUERY, PHOTOSHOP
+*Technologies: HTML, CSS, TWITTER BOOTSTRAP, JQUERY, PHOTOSHOP*
 
-==== .NET Developer at Delhaize Group from 02/2013 – 05/2013
+=== .NET Developer
+_Delhaize Group (as consultant for Adneom) - 02/2013 – 05/2013_
 
 In a team of 5 persons (developers, tester and project manager) I was involve in the development of a Projects and Portfolios web management tool use by Delhaize Group project managers to track, plan and control theirs projects (Prince 2 inspired). More especially my tasks was:
 
@@ -128,11 +132,10 @@ In a team of 5 persons (developers, tester and project manager) I was involve in
 * Fontend and backend performances optimization
 * Bug fixing
 
-Technologies: ASP.NET MVC4, ENTITY FRAMEWORK 5, MS SQL, HTML, CSS, JAVASCRIPT, JQUERY
+*Technologies: ASP.NET MVC4, ENTITY FRAMEWORK 5, MS SQL, HTML, CSS, JAVASCRIPT, JQUERY*
 
-=== SNCB-Holding
-
-==== .NET Developer from 01/2012 – 02/2013
+=== .NET Developer 
+_SNCB Holding - 01/2012 to 02/2013_
 
 My role in the SharePoint Competence Center was the end-to-end development of custom business solutions for all SNCB department and based on the SharePoint platform. More especially my tasks was:
 
@@ -143,9 +146,10 @@ My role in the SharePoint Competence Center was the end-to-end development of cu
 * Writing of development, deployment, configuration and user guides
 * Testing
 
-Technologies: C#, JAVASCRIPT, HTML, CSS, SQL, XML, XSLT, SHAREPOINT 2010, MS SQL, .NET, ASP.NET, ENTITY FRAMEWORK, SHAREPOINT OM, KNOCKOUT JS
+*Technologies: C#, JAVASCRIPT, HTML, CSS, SQL, XML, XSLT, SHAREPOINT 2010, MS SQL, .NET, ASP.NET, ENTITY FRAMEWORK, SHAREPOINT OM, KNOCKOUT JS*
 
-==== Analyst / PHP Developper from 08/2010 – 12/2011
+=== PHP Developper
+_SNCB Holding - 08/2010 – 12/2011_
 
 My main role as developer in the PHP Competence Center was the end-to-end development of custom business solutions for all SNCB department and based on the LAMP stack. More especially my tasks was:
 
@@ -159,9 +163,8 @@ My main role as developer in the PHP Competence Center was the end-to-end develo
 
 Technologies : PHP, JAVASCRIPT, HTML, CSS, SQL, XML, UML, MYSQL, ZEND FRAMEWORK, DOCTRINE, SYMFONY, JQUERY, SOLR SEARCH ENGINE, EXT JS, JENKINS, PHP UNIT
 
-=== G.E.E.IT SARL
-
-==== System and Network Technician from 10/2007 – 06/2009
+==== System and Network Technician 
+_G.E.E.IT SARL - 10/2007 to 06/2009_
 
 In part time and in parallel of my studies I participated to the day to day maintenance and evolution of the enterprise’s clients network services.
     
@@ -173,7 +176,7 @@ In part time and in parallel of my studies I participated to the day to day main
 * Development of administration tools
 * Consulting
 
-Technologies: GNU/LINUX, WINDOWS SERVER 2003, DNS, DHCP, APACHE, MYSQL, SMTP, NTFS, SMB, IPV4, NAGIOS, CACTI, MUNIN
+*Technologies: GNU/LINUX, WINDOWS SERVER 2003, DNS, DHCP, APACHE, MYSQL, SMTP, NTFS, SMB, IPV4, NAGIOS, CACTI, MUNIN*
 
 == Languages
 
