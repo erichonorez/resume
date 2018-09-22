@@ -1,0 +1,215 @@
+= Eric Honorez - Software Developer
+
+Motivated and looking for challenges, my objective is to find best solutions that meet business requirements. All of my experiences both allow me to have a global vision and understanding of entreprise applications problems but also to learn new technologies quickly.
+
+== Expertise
+
+TBC
+
+== Experiences
+
+=== Buy Way Services GEIE
+
+Context: Buy Way Services GEIE is a company financed by Buy Way Personal Finance and Carrefour Finance to provide them IT solutions. Buy Way Personal Finance is a consumer loan company whose business model focus on providing financial solution to retail (e.g. Media Markt, Telenet, Ikea, Base, etc.). Carrefour Finance provides financing solutions to Carrefour's customer.
+
+In short Buy Way Services GEIE develops and maintains IT solutions to :
+
+* apply for a loan application;
+* help sales representatives to study loan application and take a decision;
+* handle the life cycle of loan applications after their origination.
+
+It represents an average of 600 new loans per days accross Belgium and Luxembourg.
+
+==== Technical Lead
+_Buy Way Services GEIE - 09/2018 - Current_
+
+Buy Way Personal Finance wanted to offer a generic solution for internet payment on e-commerce website. This project consist of implementing new origination flow exposing public APIs to partners in order to allow them to propose a new payment option when their customer checkout.
+
+My responsibilities were to:
+
+* design microservices APIs;
+* lead a developer team of 3.
+
+Technolgies: asciidoc.
+
+==== Technical Lead / Software Architect - from 01/2017 - 09/2018
+
+Buy Way Personal Finance wanted to reduce the operational cost of loan application by digitalising the process. The digitialisation reduces the human intervention on a loan application by:
+
+* capturing all evidences and extracting information using OCR and validating them;
+* signing digital contract using Qualified Electronic Signature or Advanced Electronic Signature.
+
+Beside this business objective Buy Way PF had also the goal to modernize its technical stack and modularise its existing applications.
+
+My responsibilities were to:
+
+* design a new software architecture that would allow modernisation and modularisation;
+* design new services APIs;
+* analyse and estimate new loan application flow implementation;
+* organise the progressive migration from the monolithic application to this new architecture;
+* lead a developer team of 7;
+* release and deploy the new components on the several environments;
+
+The target architecture is a event-driven microservice architecture based on Apache Kafka and Spring.
+
+Technologies: microservices, distributed systems, event sourcing, CQRS, Spring 4 stack (web, jdbc, jpa, thymeleaf, test), kafka, kong, git, maven, Jenkins, junit, mockito, cucumber, docker, linux, gerrit, html5, css, js, jquery, asciidoc.
+
+==== Software developer from 05/2014 - 06/2017
+
+My job was to analyse, estimate and implement new features for origination applications:
+
+* web application in order to apply for loan application directly from a e-commerce web site;
+* digital signature based on the Belgian id card to sign contracts;
+* document management system in order to handle the digitialisation of loan contracts;
+* customisation of existing loan application flow for specific customers;
+
+
+Technolgies: JEE 7 stack (EJB, CDI, JMS, JPA, JAX-RS, JAX-B), Vaadin 6, maven, git, jenkins, oracle, junit, mockito, cucumber, selenium, Glassfish 3, Wildfly 10, docker, gerrit, linux.
+
+==== Part time Release manager from 01/2016 - 06/2017
+
+Beside beeing software developer I also had to opportunity to be responsible of the release of our applications. We had two releases of our applications per month (hotfix versions not included). My responsibilities were to:
+
+** deploy the release candidate in Staging environment;
+** be sure that all features in the release candidate have received the approval from testers to be deployed in production;
+** prepare and version all the deployable artifacts;
+** prepare the deployment guide;
+** maintain and evolve the version control branching model depdending on the needs;
+** code review.
+
+Technologies: maven, git, gerrit, linux.
+
+==== Part time scrum master from 01/2015 - 12/2015
+
+Beside beeing software developer I had the opportunity to be the part time Scrum master of a team of 6 developers. My responsibilities were to be sure that Scrum practices were correctly applied. I organised the scrum ceremonies (daily stand-up, spring review, spring retrospective and spring planning), maintained the spring backlog and generated the sprint metrics (sprint burndown chart).
+
+Additionnally I also organised Scrum presentations for new developers.
+
+=== Adneom
+
+==== Full-stack Developer (Internal project) from 11/2013 - 05/2014
+
+To response to internal HR needs I’m in charge of implementing an internal web tool helping HR to improve the consultant’s evaluations during theirs missions and their career evolution. More especially my tasks were:
+
+* Application development
+* Writing functional and technical analysis
+* Integration of the tool inside the enterprise portal
+
+Technologies: REST API, HTML 5, JAVASCRIPT, CSS3, ANGULAR JS 1, JQUERY, LESS, TWITTER BOOTSTRAP, BOWER, RESPONSIVE DESIGN, MYSQL, JAVA, SPRING
+
+==== Web Developer at BNP Paribas Fortis from 06/2013 - 11/2013
+
+In the Direct Channels  Planning & Development department, my role is to help to improve the multi-channels experience of customers and raise sales through digital channels. More especially my tasks are:
+
+* Technical analysis and end-to-end development of online projects. Eg:
+** BNP Paribas Fortis webshops (on the site and in the Easy Banking mobile application)
+** Direct sales
+* Work out the online customer experience
+* Landing pages integration (slicing)
+* Marketing email campaigns development
+
+Technologies: HTML5, JAVASCRIPT, CSS3, JQUERY, UNDERSCORE JS, ANGULAR JS, LESS, TWITTER BOOTSTRAP, RESPONSIVE DESIGN, MESSAGENT, PHOTOSHOP
+
+==== Web Developer at BPOST from 05/2013 - 06/2013
+
+Development of the BPOST IPO dedicated website. More especially my tasks was:
+
+* Design slicing and integration
+* Content integration
+
+Technologies: HTML, CSS, TWITTER BOOTSTRAP, JQUERY, PHOTOSHOP
+
+==== .NET Developer at Delhaize Group from 02/2013 – 05/2013
+
+In a team of 5 persons (developers, tester and project manager) I was involve in the development of a Projects and Portfolios web management tool use by Delhaize Group project managers to track, plan and control theirs projects (Prince 2 inspired). More especially my tasks was:
+
+* From scratch development of the backend and frontend
+* SQL stored procedures and functions development
+* Fontend and backend performances optimization
+* Bug fixing
+
+Technologies: ASP.NET MVC4, ENTITY FRAMEWORK 5, MS SQL, HTML, CSS, JAVASCRIPT, JQUERY
+
+=== SNCB-Holding
+
+==== .NET Developer from 01/2012 – 02/2013
+
+My role in the SharePoint Competence Center was the end-to-end development of custom business solutions for all SNCB department and based on the SharePoint platform. More especially my tasks was:
+
+* End-to-End development of custom solutions based on Microsoft SharePoint 2010 E.g. :
+** Personal Health Care portal for all SNCB employees (.NET solution integrated in SharePoint)
+** ICTRA intranet (branding solution)
+** Document Management solutions (for HR department and Infrabel)
+* Writing of development, deployment, configuration and user guides
+* Testing
+
+Technologies: C#, JAVASCRIPT, HTML, CSS, SQL, XML, XSLT, SHAREPOINT 2010, MS SQL, .NET, ASP.NET, ENTITY FRAMEWORK, SHAREPOINT OM, KNOCKOUT JS
+
+==== Analyst / PHP Developper from 08/2010 – 12/2011
+
+My main role as developer in the PHP Competence Center was the end-to-end development of custom business solutions for all SNCB department and based on the LAMP stack. More especially my tasks was:
+
+* End-to-End development of custom solutions based on the LAMP Stack. Eg:
+** Event organization tool for stations
+** Risk analysis tool
+** Infrastructure tools
+* Writing of functional and technical analysis 
+* As technical leader I made some researches and developments for the Open Source Competence Center (Internal framework maintenance, evolution and optimization, new libraries and frameworks developments)
+* Peer coaching of developers (as technical leader)
+
+Technologies : PHP, JAVASCRIPT, HTML, CSS, SQL, XML, UML, MYSQL, ZEND FRAMEWORK, DOCTRINE, SYMFONY, JQUERY, SOLR SEARCH ENGINE, EXT JS, JENKINS, PHP UNIT
+
+=== G.E.E.IT SARL
+
+==== System and Network Technician from 10/2007 – 06/2009
+
+In part time and in parallel of my studies I participated to the day to day maintenance and evolution of the enterprise’s clients network services.
+    
+* System administration (+/- 50 GNU/Linux servers 
+* Network services administration such as DNS, DHCP, Apache, MySQL, SMTP, etc.
+* Network administration (IPv4, switching, routing)
+* Work in datacenters
+* Monitoring
+* Development of administration tools
+* Consulting
+
+Technologies: GNU/LINUX, WINDOWS SERVER 2003, DNS, DHCP, APACHE, MYSQL, SMTP, NTFS, SMB, IPV4, NAGIOS, CACTI, MUNIN
+
+== Languages
+
+|===
+| Language | Writing | Speaking
+
+| French
+| native
+| native
+
+| English
+| Fluent
+| Fluent
+
+| Dutch
+| Basic
+| Basic
+
+|=== 
+
+== Education, trainings, confererences and certifications
+
+* 02/2018: Domain Driven Design Europe
+* 11/2017: Devoxx Belgium
+* 12/2016: Building Distributed Pipelines for Data Science Using Kafka, Spark, and Cassandra (O'Reilly)
+* 11/2016: Devoxx Belgium
+* 11/2016: Functional Program Design in Scala (Coursera)
+* 10/2016: Functional Programming Principles in Scala (Coursera)
+* 11/2015: Devoxx Belgium
+* 06/2015: Certified ScrumMaster (CSM)
+* 02/2013: Programming in HTML5 with JavaScript and CSS3 Specialist (Microsoft certification)
+* 06/2010: Bachelor degree in computer science and communication systems
+
+== Hobbies
+
+* Running
+* Swimming
+* Cycling
+* Local event (BruJUG)
