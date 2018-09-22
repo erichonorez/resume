@@ -2,6 +2,15 @@
 
 Motivated and looking for challenges, my objective is to find best solutions that meet business requirements. All of my experiences both allow me to have a global vision and understanding of entreprise applications problems but also to learn new technologies quickly.
 
+== Info & Contact
+
+* 31 year old
+* Located in Brussels
+* e-mail: eric
+* mobile phone:
+* twitter: https://twitter.com/eric_honorez[@eric_honorez]
+* https://www.linkedin.com/in/eric-honorez-29541b19/[linkedin]
+
 == Expertise
 
 TBC
@@ -161,7 +170,7 @@ My main role as developer in the PHP Competence Center was the end-to-end develo
 * As technical leader I made some researches and developments for the Open Source Competence Center (Internal framework maintenance, evolution and optimization, new libraries and frameworks developments)
 * Peer coaching of developers (as technical leader)
 
-Technologies : PHP, JAVASCRIPT, HTML, CSS, SQL, XML, UML, MYSQL, ZEND FRAMEWORK, DOCTRINE, SYMFONY, JQUERY, SOLR SEARCH ENGINE, EXT JS, JENKINS, PHP UNIT
+*Technologies : PHP, JAVASCRIPT, HTML, CSS, SQL, XML, UML, MYSQL, ZEND FRAMEWORK, DOCTRINE, SYMFONY, JQUERY, SOLR SEARCH ENGINE, EXT JS, JENKINS, PHP UNIT*
 
 ==== System and Network Technician 
 _G.E.E.IT SARL - 10/2007 to 06/2009_
