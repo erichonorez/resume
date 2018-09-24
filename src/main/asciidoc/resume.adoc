@@ -55,6 +55,7 @@ My responsibilities were to:
 * design new services APIs;
 * analyse and estimate new loan application flow implementation;
 * organise the progressive migration from the monolithic application to this new architecture;
+* Recrutment and technical interviews of new developers
 * lead team of 7 developers;
 * release and deploy the new components on the several environments;
 
