@@ -1,0 +1,25 @@
+== Experiences
+
+=== Technical Lead
+_Buy Way Services GEIE - 09/2018 to Current_
+
+On utilise ItsMe pour l'authentication et vasco pour la signature électronique des documents.
+
+Au début j'ai assisté à beaucoup de réunion pour le design de la solution. Les questions n'était pas seulement orientée APIs mais plutôt qu'est qu'on fait aujourd'hui dans nos systèmes, qu'est-ce qu'on veut demain?
+
+J'ai également participé à la constuction du backlog en y ajouter des éléments comme: exposer la documentation, exposer un environnement de test, etc.
+
+Nous avons réalisé la documentation de l'API en utilisant 2 principaux outils : swagger et asciidoc. En créant un pipeline de build basé sur maven nous avons pû créer un portal static qui expose la documentation fonctionnelle et une documentation technique de nos APIs. La génération de ce portal a été intégrée dans notre système d'intégration continue afin d'ếtre généré automatiquement après chaque commit.
+
+La sécurité est également une autre préocupation. Nous avons résolu ce problème en utilisant Kong comme API Gateway. Cet API Gateway nous à permis également de regrouper sous une même API public différents systèmes back-end.
+
+L'implémentation des services a été réalisée en utilisant Spring boot 2 et Spring framework 5. Le coeur de métier a été designé en utilisant le domain driven design, le test driven development et l'architecture hexagonale.
+
+Au début de la phase d'implémentation une grande partie du temps à été la formation a une série de nouveaux concepts :
+- Hexagonal architecture
+- Test driven development
+- Domain driven design
+- Event sourcing
+- Kafka
+
+Ces concepts on été introduit en faisant du mob programming. Au fur et à mesure nous avons dérivé vers le pair programming et le code review.

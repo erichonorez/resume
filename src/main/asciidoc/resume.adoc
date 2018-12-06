@@ -30,14 +30,20 @@ In short Buy Way Services GEIE develops and maintains IT solutions to :
 
 It represents an average of 600 new loans per days accross Belgium and Luxembourg.
 
-Buy Way Personal Finance wanted to offer a generic solution for internet payment on e-commerce website. This project consist of implementing new origination flow exposing public APIs to partners in order to allow them to propose a new payment option when their customer checkout.
+Buy Way Personal Finance wanted to offer a generic solution for internet payment on e-commerce website. This project consist of implementing new origination flow exposing public APIs to partners in order to allow them to propose a new payment option when their customer checkout. The strenght of the solution is to give real-time decisions by facilitating customer enrollment by using third party services like ItsMe and allow client to sign their contract digitally.
 
 My responsibilities were to:
 
-* design microservices APIs;
-* lead a developer team of 3.
+* help the product owner to design a business solution taking into account the technical requirements;
+* design and document public APIs that exposed to our partners for integration into their e-commerce website;
+* design microservices behind these public APIs;
+* build and API portal;
+* lead a developer team of 3;
+** Teach them about hexagonal architecture, event-sourcing, domain driven design, test driven development, functional programming, kafka
+** Coach them by doing mob programming, pair programming and code review;
+* development of some use cases;
 
-*Technologies: microservices, distributed systems, event sourcing, CQRS, Spring 4 stack (web, jdbc, jpa, thymeleaf, test), kafka, kong, git, maven, Jenkins, junit, mockito, cucumber, docker, linux, gerrit, html5, css, js, jquery, asciidoc.*
+*Technologies: Domain Driven Design, Test Driven Development, Hexagonal Architecture, REST API, microservices, distributed systems, event sourcing, CQRS, Spring 4 stack (web, jdbc, jpa, thymeleaf, test), kafka, kong, vavr (functional programming in Java), git, maven, Jenkins, junit, mockito, cucumber, docker, linux, gerrit, html5, css, js, jquery, asciidoc, jwt.*
 
 === Technical Lead / Software Architect
 _Buy Way Services GEIE - from 01/2017 to 09/2018_
