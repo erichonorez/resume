@@ -20,7 +20,7 @@ TBC
 === Technical Lead
 _Buy Way Services GEIE - 09/2018 to Current_
 
-Context: Buy Way Services GEIE is a company financed by Buy Way Personal Finance and Carrefour Finance to provide them IT solutions. Buy Way Personal Finance is a consumer loan company whose business model focus on providing financial solution to retail (e.g. Media Markt, Telenet, Ikea, Base, etc.). Carrefour Finance provides financing solutions to Carrefour's customer.
+Buy Way Services GEIE is a company financed by Buy Way Personal Finance and Carrefour Finance to provide them IT solutions. Buy Way Personal Finance is a consumer loan company whose business model focus on providing financial solution to retail (e.g. Media Markt, Telenet, Ikea, Base, etc.). Carrefour Finance provides financing solutions to Carrefour's customer.
 
 In short Buy Way Services GEIE develops and maintains IT solutions to :
 
@@ -30,7 +30,9 @@ In short Buy Way Services GEIE develops and maintains IT solutions to :
 
 It represents an average of 600 new loans per days accross Belgium and Luxembourg.
 
-Buy Way Personal Finance wanted to offer a generic solution for internet payment on e-commerce website. This project consist of implementing new origination flow exposing public APIs to partners in order to allow them to propose a new payment option when their customer checkout. The strenght of the solution is to give real-time decisions by facilitating customer enrollment by using third party services like ItsMe and allow client to sign their contract digitally.
+Context: Buy Way Personal Finance wanted to offer a generic solution for internet payment on e-commerce website. This project consist of implementing new origination flow exposing public APIs to partners in order to allow them to propose a new payment option when their customer checkout. The strenght of the solution is to give real-time decisions by facilitating customer enrollment by using third party services like ItsMe and allow client to sign their contract digitally. 
+
+The development methodology was scrum, we were 4 developers, 1 scrum master and 1 product owner.
 
 My responsibilities were to:
 
