@@ -30,9 +30,9 @@ In short Buy Way Services GEIE develops and maintains IT solutions to :
 
 It represents an average of 600 new loans per days accross Belgium and Luxembourg.
 
-Context: Buy Way Personal Finance wanted to offer a generic solution for internet payment on e-commerce website. This project consist of implementing new origination flow exposing public APIs to partners in order to allow them to propose a new payment option when their customer checkout. The strenght of the solution is to give real-time decisions by facilitating customer enrollment by using third party services like ItsMe and allow client to sign their contract digitally. 
+Project: Buy Way Personal Finance wanted to offer a generic solution for internet payment on e-commerce website. This project consist of implementing new origination flow exposing public APIs to partners in order to allow them to propose a new payment option when their customer checkout. The strenght of the solution is to give real-time decisions by facilitating customer enrollment by using third party services like ItsMe and allow client to sign their contract digitally. 
 
-The development methodology was scrum, we were 4 developers, 1 scrum master and 1 product owner.
+Team & organisation: The development methodology was scrum. We were 4 developers, 1 scrum master and 1 product owner.
 
 My responsibilities were to:
 
