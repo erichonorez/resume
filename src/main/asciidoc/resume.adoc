@@ -39,7 +39,7 @@ In short Buy Way Services GEIE develops and maintains IT solutions to :
 
 It represents an average of 600 new loans per days accross Belgium and Luxembourg.
 
-Project: Buy Way Personal Finance wanted to offer a generic solution for internet payment on e-commerce website. This project consist of implementing new origination flow exposing public APIs to partners in order to allow them to propose a new payment option when their customer checkout. The strenght of the solution is to give real-time decisions by facilitating customer enrollment by using third party services like ItsMe and allow client to sign their contract digitally. 
+Project: Buy Way Personal Finance wanted to offer a generic solution for internet payment on e-commerce website. This project consist of implementing new origination flow exposing public APIs to partners in order to allow them to propose a new payment option when their customer pay their cart. The strenght of the solution is to give real-time decisions by facilitating customer enrollment by using third party services like ItsMe and allow client to sign their contract digitally. 
 
 Team & organisation: The development methodology was scrum. We were 4 developers, 1 scrum master and 1 product owner.
 
@@ -59,10 +59,10 @@ My responsibilities were to:
 === Software developer - Technical lead
 _Buy Way Services GEIE - from 01/2017 to 09/2018_
 
-Buy Way Personal Finance wanted to reduce the operational cost of loan application by digitalising the process. The digitialisation reduces the operation cost of a loan application by:
+Buy Way Personal Finance wanted to reduce the operational cost of loan application by digitalising the origination process. The digitialisation reduces the operational cost of a loan application by:
 
 * capturing all evidences and extracting information using OCR and validating them;
-* signing digital contract using Qualified Electronic Signature or Advanced Electronic Signature.
+* signing digitally the contract using Qualified Electronic Signature or Advanced Electronic Signature.
 
 The implementation of this new business process had to follow the new target architecture (see <<bw-sofware-architect, below>>).
 
@@ -129,7 +129,7 @@ Beside beeing software developer I also had to opportunity to be responsible of 
 ** maintain and evolve the version control branching model depdending on the needs;
 ** code review.
 
-*Technologies: maven, git, gerrit, linux.*
+*Technologies: maven, git, gerrit, linux, jenkins.*
 
 === Part time scrum master
 _Buy Way Services GEIE - 01/2015 - 12/2015_
