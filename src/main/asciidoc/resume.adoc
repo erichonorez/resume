@@ -16,8 +16,13 @@ I am a passionate developer especially interested about software architecture an
 
 * Software design
 * Test driven development
+* Domain driven design
+* Functional programming
 * REST APIs
 * Java
+* JEE
+* Maven
+* Git
 
 == Experiences
 
@@ -261,4 +266,3 @@ In part time and in parallel of my studies I participated to the day to day main
 * Running
 * Swimming
 * Cycling
-* Local event (BruJUG)
