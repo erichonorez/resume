@@ -3,6 +3,8 @@
 === Technical Lead
 _Buy Way Services GEIE - 09/2018 to Current_
 
+Nom du projet: webmerchant (sur porteur)
+
 On utilise ItsMe pour l'authentication et vasco pour la signature électronique des documents.
 
 Au début j'ai assisté à beaucoup de réunion pour le design de la solution. Les questions n'était pas seulement orientée APIs mais plutôt qu'est qu'on fait aujourd'hui dans nos systèmes, qu'est-ce qu'on veut demain?
@@ -23,3 +25,19 @@ Au début de la phase d'implémentation une grande partie du temps à été la f
 - Kafka
 
 Ces concepts on été introduit en faisant du mob programming. Au fur et à mesure nous avons dérivé vers le pair programming et le code review.
+
+=== Technical Lead / Software Architect
+_Buy Way Services GEIE - from 01/2017 to 09/2018_
+
+Nom du projet: eorigination
+
+=== Software Architect 
+_Buy Way Services GEIE - from 01/2017 to 09/2018_
+
+Pourquoi je pense qu'on a échoué:
+
+- Implémenter et maintenir des systèmes distribué c'est beaucoup plus difficile que pour un monolith. Au dessus des objectifs de base d'un programme (remplir les objectifs business) viennent grand nombre de problématique liées au fait que les applications sont déployées indépendemment les unes des autres: communication, marshalling, versionning, déploiement, tests.
+
+- Notre problématique essentielle était la modularisation. Je pense que nous aurions dû commencer par créer des composants modulaire au sein du monolith. Toute une partie du travaille aurait été le même.
+
+- Le politique et les projets business on beaucoup influencés: il vaut mieux revendre une société avec les bons mot-clé.

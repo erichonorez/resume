@@ -1,6 +1,6 @@
 = Eric Honorez - Software Developer
 
-Motivated and looking for challenges, my objective is to find best solutions that meet business requirements. All of my experiences both allow me to have a global vision and understanding of entreprise applications problems but also to learn new technologies quickly.
+Passionated developer I am motivated and always looking for challenges. My primary objective is to build high quality software meeting business requirements. All of my experiences both allow me to have a global vision and understanding of entreprise applications problems but also to learn new technologies quickly.
 
 == Info & Contact
 
@@ -13,11 +13,14 @@ Motivated and looking for challenges, my objective is to find best solutions tha
 
 == Expertise
 
-TBC
+Java
+API
+Test-Driven development
+Design
 
 == Experiences
 
-=== Technical Lead
+=== Software developer - Technical lead
 _Buy Way Services GEIE - 09/2018 to Current_
 
 Buy Way Services GEIE is a company financed by Buy Way Personal Finance and Carrefour Finance to provide them IT solutions. Buy Way Personal Finance is a consumer loan company whose business model focus on providing financial solution to retail (e.g. Media Markt, Telenet, Ikea, Base, etc.). Carrefour Finance provides financing solutions to Carrefour's customer.
@@ -43,33 +46,47 @@ My responsibilities were to:
 * lead a developer team of 3;
 ** Teach them about hexagonal architecture, event-sourcing, domain driven design, test driven development, functional programming, kafka
 ** Coach them by doing mob programming, pair programming and code review;
-* development of some use cases;
+* development of new features;
 
-*Technologies: Domain Driven Design, Test Driven Development, Hexagonal Architecture, REST API, microservices, distributed systems, event sourcing, CQRS, Spring 4 stack (web, jdbc, jpa, thymeleaf, test), kafka, kong, vavr (functional programming in Java), git, maven, Jenkins, junit, mockito, cucumber, docker, linux, gerrit, html5, css, js, jquery, asciidoc, jwt.*
+*Technologies: Domain Driven Design, Test Driven Development, Hexagonal Architecture, REST API, microservices, distributed systems, event sourcing, CQRS, Spring 5 stack (web, jdbc, thymeleaf, test), kafka, kong, vavr (functional programming in Java), git, maven, Jenkins, junit, mockito, cucumber, docker, linux, gerrit, html5, css, js, jquery, asciidoc, jwt.*
 
-=== Technical Lead / Software Architect
+=== Software developer - Technical lead
 _Buy Way Services GEIE - from 01/2017 to 09/2018_
 
-Buy Way Personal Finance wanted to reduce the operational cost of loan application by digitalising the process. The digitialisation reduces the human intervention on a loan application by:
+Buy Way Personal Finance wanted to reduce the operational cost of loan application by digitalising the process. The digitialisation reduces the operation cost of a loan application by:
 
 * capturing all evidences and extracting information using OCR and validating them;
 * signing digital contract using Qualified Electronic Signature or Advanced Electronic Signature.
 
-Beside this business objective Buy Way PF had also the goal to modernize its technical stack and modularise its existing applications.
+The implementation of this new business process had to follow the new target architecture (see <<bw-sofware-architect, below>>).
+
+My responsibilities were to:
+
+* analyse and estimate new loan application flow implementation;
+* recrutment and technical interviews of new developers;
+* lead a team of 7 developers;
+* development of new features;
+* release and deploy the new components on the several environments.
+
+*Technologies: microservices, distributed systems, event sourcing, CQRS, Spring 4 stack (web, jdbc, jpa, thymeleaf, test), kafka, git, maven, Jenkins, junit, mockito, cucumber, docker, linux, gerrit, html5, css, js, jquery, asciidoc.*
+
+=== [#bw-software-architect]#Software Architect#
+_Buy Way Services GEIE - from 01/2017 to 09/2018_
+
+In order to support Buy Way Personal Finance's digital ambitions and enable new business models based on APIs, the current architecture of Java applications had to evolve. Many components of the actual monolithic system relied on out-of-date technologies and everything was tightly coupled. It made the system hard to change and hard to exposed through REST APIs to external parties. 
+
+Team & organisation: With the enterprise architect and the strategy manager and external consultancy company (BCG Platinion).
 
 My responsibilities were to:
 
 * design a new software architecture that would allow modernisation and modularisation;
-* design new services APIs;
-* analyse and estimate new loan application flow implementation;
-* organise the progressive migration from the monolithic application to this new architecture;
-* Recrutment and technical interviews of new developers
-* lead team of 7 developers;
-* release and deploy the new components on the several environments;
+** The target architecture was a event-driven microservice architecture based on Apache Kafka and Spring.
+* organise the progressive migration from the monolithic application to this target architecture;
+* design new services high-level APIs;
+* define new development standard for micro-services;
+* report to top level management;
 
-The target architecture is a event-driven microservice architecture based on Apache Kafka and Spring.
-
-*Technologies: microservices, distributed systems, event sourcing, CQRS, Spring 4 stack (web, jdbc, jpa, thymeleaf, test), kafka, kong, git, maven, Jenkins, junit, mockito, cucumber, docker, linux, gerrit, html5, css, js, jquery, asciidoc.*
+*Technologies: microservices, distributed systems, event sourcing, CQRS, Spring, kafka, git, maven, Jenkins, junit, mockito, cucumber, docker, linux, gerrit, html5, css, js, jquery, asciidoc.*
 
 === Software developer 
 _Buy Way Services GEIE - 05/2014 to 06/2017_
@@ -84,7 +101,7 @@ My job was to analyse, estimate and implement new features for origination appli
 
 *Technolgies: JEE 7 stack (EJB, CDI, JMS, JPA, JAX-RS, JAX-B), Vaadin 6, maven, git, jenkins, oracle, junit, mockito, cucumber, selenium, Glassfish 3, Wildfly 10, docker, gerrit, linux.*
 
-=== Part time Release manager 
+=== Part time release manager 
 _Buy Way Services GEIE - 01/2016 to 06/2017_
 
 Beside beeing software developer I also had to opportunity to be responsible of the release of our applications. We had two releases of our applications per month (hotfix versions not included). My responsibilities were to:
