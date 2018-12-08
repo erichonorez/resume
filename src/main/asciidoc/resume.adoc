@@ -1,22 +1,23 @@
 = Eric Honorez - Software Developer
 
-Passionated developer I am motivated and always looking for challenges. My primary objective is to build high quality software meeting business requirements. All of my experiences both allow me to have a global vision and understanding of entreprise applications problems but also to learn new technologies quickly.
+I am a passionate developer especially interested about software architecture and design, domain driven design, test driven development, software craftmanship and functional programming. I like to go out of my confort zone, learn new things and share my experiences.
 
 == Info & Contact
 
 * 31 year old
 * Located in Brussels
-* e-mail: eric
-* mobile phone:
+* e-mail: eric[dot]honorez[at]gmail[dot]com
+* mobile phone: -
 * twitter: https://twitter.com/eric_honorez[@eric_honorez]
 * https://www.linkedin.com/in/eric-honorez-29541b19/[linkedin]
+* github: https://github.com/erichonorez
 
 == Expertise
 
-Java
-API
-Test-Driven development
-Design
+* Software design
+* Test driven development
+* REST APIs
+* Java
 
 == Experiences
 
@@ -60,9 +61,17 @@ Buy Way Personal Finance wanted to reduce the operational cost of loan applicati
 
 The implementation of this new business process had to follow the new target architecture (see <<bw-sofware-architect, below>>).
 
+Team & organisation : The development methodology was scrum. We were 8 developers, 1 scrum master, 1 functional analyst, 1 project manager.
+
 My responsibilities were to:
 
-* analyse and estimate new loan application flow implementation;
+* Capture the functional requirements based on business analysis;
+* Design software architecture;
+* Analysis of integrations with third party services:
+** Documentum - entreprise concent management platform used stored evidences and contract signed digitally;
+** Captiva - OCR engine integrated with Documentum used in order to validate evidences;
+** OneSpan E-Signatures - Advanced Electronic Signature tool used to sign contracts;
+* Design REST APIs;
 * recrutment and technical interviews of new developers;
 * lead a team of 7 developers;
 * development of new features;
@@ -75,7 +84,7 @@ _Buy Way Services GEIE - from 01/2017 to 09/2018_
 
 In order to support Buy Way Personal Finance's digital ambitions and enable new business models based on APIs, the current architecture of Java applications had to evolve. Many components of the actual monolithic system relied on out-of-date technologies and everything was tightly coupled. It made the system hard to change and hard to exposed through REST APIs to external parties. 
 
-Team & organisation: With the enterprise architect and the strategy manager and external consultancy company (BCG Platinion).
+Team & organisation: 1 the enterprise architect, 1 strategy manager and an external consultancy company (BCG Platinion).
 
 My responsibilities were to:
 
@@ -92,6 +101,8 @@ My responsibilities were to:
 _Buy Way Services GEIE - 05/2014 to 06/2017_
 
 My job was to analyse, estimate and implement new features for origination applications:
+
+Team & organisation: ~20 developers splitted accross 5 scrum teams.
 
 * web application in order to apply for loan application directly from a e-commerce web site;
 * digital signature based on the Belgian id card to sign contracts;
