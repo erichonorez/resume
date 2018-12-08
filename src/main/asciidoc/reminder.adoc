@@ -19,7 +19,7 @@ L'implémentation des services a été réalisée en utilisant Spring boot 2 et 
 
 Au début de la phase d'implémentation une grande partie du temps à été la formation a une série de nouveaux concepts :
 - Hexagonal architecture
-- Test driven development
+- Test driven development sdf
 - Domain driven design
 - Event sourcing
 - Kafka
