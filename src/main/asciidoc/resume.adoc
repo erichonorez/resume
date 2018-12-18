@@ -106,7 +106,7 @@ My responsibilities were to:
 
 *Technologies: microservices, distributed systems, event sourcing, CQRS, Spring, kafka, git, maven, Jenkins, junit, mockito, cucumber, docker, linux, gerrit, html5, css, js, jquery, asciidoc.*
 
-=== Software developer 
+=== Java Software developer 
 _Buy Way Services GEIE - 05/2014 to 06/2017_
 
 My job was to analyse, estimate and implement new features for origination applications:
@@ -153,7 +153,7 @@ To response to internal HR needs I’m in charge of implementing an internal web
 
 *Technologies: REST API, HTML 5, JAVASCRIPT, CSS3, ANGULAR JS 1, JQUERY, LESS, TWITTER BOOTSTRAP, BOWER, RESPONSIVE DESIGN, MYSQL, JAVA, SPRING*
 
-=== Web Developer 
+=== Front-end Developer 
 _BNP Paribas Fortis (as consultant for Adneom) - 06/2013 to 11/2013_
 
 In the Direct Channels  Planning & Development department, my role is to help to improve the multi-channels experience of customers and raise sales through digital channels. More especially my tasks are:
@@ -167,7 +167,7 @@ In the Direct Channels  Planning & Development department, my role is to help to
 
 *Technologies: HTML5, JAVASCRIPT, CSS3, JQUERY, UNDERSCORE JS, ANGULAR JS, LESS, TWITTER BOOTSTRAP, RESPONSIVE DESIGN, MESSAGENT, PHOTOSHOP*
 
-=== Web Developer
+=== Front-end Developer
 _BPOST (as consultant for Adneom) - 05/2013 - 06/2013_
 
 Development of the BPOST IPO dedicated website. More especially my tasks was:
@@ -177,7 +177,7 @@ Development of the BPOST IPO dedicated website. More especially my tasks was:
 
 *Technologies: HTML, CSS, TWITTER BOOTSTRAP, JQUERY, PHOTOSHOP*
 
-=== .NET Developer
+=== Full-Stack .NET Developer
 _Delhaize Group (as consultant for Adneom) - 02/2013 – 05/2013_
 
 In a team of 5 persons (developers, tester and project manager) I was involve in the development of a Projects and Portfolios web management tool use by Delhaize Group project managers to track, plan and control theirs projects (Prince 2 inspired). More especially my tasks was:
