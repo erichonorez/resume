@@ -258,8 +258,8 @@ In part time and in parallel of my studies I participated to the day to day main
 * 11/2017: Devoxx Belgium
 * 12/2016: Building Distributed Pipelines for Data Science Using Kafka, Spark, and Cassandra (O'Reilly)
 * 11/2016: Devoxx Belgium
-* 11/2016: Functional Program Design in Scala (Coursera)
-* 10/2016: Functional Programming Principles in Scala (Coursera)
+* 11/2016: Functional Programming Design in Scala (Coursera certification)
+* 10/2016: Functional Programming Principles in Scala (Coursera certification)
 * 11/2015: Devoxx Belgium
 * 06/2015: Certified ScrumMaster (CSM)
 * 02/2013: Programming in HTML5 with JavaScript and CSS3 Specialist (Microsoft certification)
