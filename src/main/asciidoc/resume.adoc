@@ -121,7 +121,7 @@ Team & organisation: ~20 developers splitted accross 5 scrum teams.
 
 *Technolgies: JEE 7 stack (EJB, CDI, JMS, JPA, JAX-RS, JAX-B), Vaadin 6, maven, git, jenkins, oracle, junit, mockito, cucumber, selenium, Glassfish 3, Wildfly 10, docker, gerrit, linux.*
 
-=== Part time release manager 
+=== Part-time release manager 
 _Buy Way Services GEIE - 01/2016 to 06/2017_
 
 Beside beeing software developer I also had to opportunity to be responsible of the release of our applications. We had two releases of our applications per month (hotfix versions not included). My responsibilities were to:
@@ -135,7 +135,7 @@ Beside beeing software developer I also had to opportunity to be responsible of 
 
 *Technologies: maven, git, gerrit, linux, jenkins.*
 
-=== Part time scrum master
+=== Part-time scrum master
 _Buy Way Services GEIE - 01/2015 - 12/2015_
 
 Beside beeing software developer I had the opportunity to be the part time Scrum master of a team of 6 developers. My responsibilities were to be sure that Scrum practices were correctly applied. I organised the scrum ceremonies (daily stand-up, spring review, spring retrospective and spring planning), maintained the spring backlog and generated the sprint metrics (sprint burndown chart).
