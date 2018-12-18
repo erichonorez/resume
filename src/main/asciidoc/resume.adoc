@@ -1,4 +1,8 @@
-= Eric Honorez - Software Developer
+:doctitle: Eric Honorez - Software Developer
+
+ifdef::backend-pdf[:notitle:]
+ifdef::backend-pdf[[discrete]]
+= {doctitle}
 
 I am a passionate developer especially interested about software architecture and design, domain driven design, test driven development, software craftmanship and functional programming. I like to go out of my confort zone, learn new things and share my experiences.
 
