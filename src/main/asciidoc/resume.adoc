@@ -29,7 +29,7 @@ I am a passionate developer interested about software architecture and design, d
 
 == Experiences
 
-=== Software developer - Technical lead
+=== Java Software Developer - Technical Lead
 _Buy Way Services GEIE - 09/2018 to Current_
 
 Buy Way Services GEIE is a company financed by Buy Way Personal Finance and Carrefour Finance to provide them IT solutions. Buy Way Personal Finance is a consumer loan company whose business model focus on providing financial solution to retail (e.g. Media Markt, Telenet, Ikea, Base, etc.). Carrefour Finance provides financing solutions to Carrefour's customer.
@@ -59,7 +59,7 @@ My responsibilities were to:
 
 *Technologies: Domain Driven Design, Test Driven Development, Hexagonal Architecture, REST API, microservices, event sourcing, CQRS, Spring 5, kafka, kong, vavr (functional programming in Java), git, maven, Jenkins, junit, mockito, cucumber, docker, linux.*
 
-=== Software developer - Technical lead
+=== Java Software Developer - Technical Lead
 _Buy Way Services GEIE - from 01/2017 to 09/2018_
 
 Buy Way Personal Finance wanted to reduce the operational cost of loan application by digitalising the process. This digitialisation reduces the operational cost by:
@@ -106,7 +106,7 @@ My responsibilities were to:
 
 *Technologies: microservices, distributed systems, event sourcing, CQRS, kafka.*
 
-=== Java Software developer 
+=== Java Software Developer 
 _Buy Way Services GEIE - 05/2014 to 06/2017_
 
 My job was to analyse, estimate and implement new features for origination applications:
@@ -122,7 +122,7 @@ My responsibilities were to:
 
 *Technolgies: JEE 7 stack (EJB, CDI, JMS, JPA, JAX-RS, JAX-B), Vaadin 6, maven, git, jenkins, oracle, junit, mockito, cucumber, selenium, Glassfish 3, Wildfly 10, docker, gerrit, linux.*
 
-=== Part-time release manager 
+=== Part-time Release Manager 
 _Buy Way Services GEIE - 01/2016 to 06/2017_
 
 Beside beeing software developer I also had to opportunity to be responsible of the release of our applications. We had two releases of our applications per month (hotfix versions not included).
@@ -140,14 +140,14 @@ My responsibilities were to:
 
 *Technologies: maven, git, gerrit, bash, linux, jenkins.*
 
-=== Part-time scrum master
+=== Part-time Scrum Master
 _Buy Way Services GEIE - 01/2015 - 12/2015_
 
 Beside beeing software developer I had the opportunity to be the part time Scrum master of a team of 6 developers. My responsibilities were to be sure that Scrum practices were correctly applied. I organised the scrum ceremonies (daily stand-up, sprint review, sprint retrospective and sprint planning), maintained the sprint backlog and generated the sprint metrics (sprint burndown chart).
 
 Additionnally I also organised Scrum presentations for new developers.
 
-=== Full-stack Developer
+=== Full-stack Java Developer
 _Adneom (internal project) - 11/2013 to 05/2014_
 
 HR team of Adneom needed a tool to improve the follow-up of consultant’s evaluations during theirs missions and their career evolution.
