@@ -156,7 +156,7 @@ My responsiblities were:
 * writing functional and technical analysis
 * integration of the tool inside the enterprise portal
 
-*Technologies: REST API, ANGULAR JS, MYSQL, JAVA, SPRING, HTML 5, JAVASCRIPT, CSS3, ANGULAR JS, JQUERY, LESS, TWITTER BOOTSTRAP, BOWER, RESPONSIVE DESIGN*
+*Technologies: rest api, angular js, mysql, java, spring, html 5, javascript, css3, angular js, jquery, less, twitter bootstrap, bower, responsive design*
 
 === Front-end Developer 
 _BNP Paribas Fortis (as consultant for Adneom) - 06/2013 to 11/2013_
@@ -170,7 +170,7 @@ In the Direct Channels  Planning & Development department, my role were to help 
 * Landing pages integration (slicing)
 * Marketing email campaigns development
 
-*Technologies: ANGULAR JS, HTML5, JAVASCRIPT, CSS3, JQUERY, UNDERSCORE JS, LESS, TWITTER BOOTSTRAP, RESPONSIVE DESIGN, MESSAGENT, PHOTOSHOP*
+*Technologies: angular js, html5, javascript, css3, jquery, underscore js, less, twitter bootstrap, responsive design, messagent, photoshop*
 
 === Front-end Developer
 _BPOST (as consultant for Adneom) - 05/2013 - 06/2013_
@@ -180,7 +180,7 @@ Development of the BPOST IPO dedicated website. More especially my tasks were:
 * Design slicing and integration
 * Content integration
 
-*Technologies: HTML, CSS, TWITTER BOOTSTRAP, JQUERY, PHOTOSHOP*
+*Technologies: html, css, twitter bootstrap, jquery, photoshop*
 
 === Full-Stack .NET Developer
 _Delhaize Group (as consultant for Adneom) - 02/2013 – 05/2013_
@@ -194,7 +194,7 @@ My responsibilities were:
 * fontend and backend performances optimization
 * bug fixing
 
-*Technologies: ASP.NET MVC4, ENTITY FRAMEWORK 5, MS SQL, HTML, CSS, JAVASCRIPT, JQUERY*
+*Technologies: asp.net mvc4, entity framework 5, ms sql, html, css, javascript, jquery*
 
 === .NET Developer 
 _SNCB Holding - 01/2012 to 02/2013_
@@ -210,7 +210,7 @@ My responsibilities were:
 * writing of development, deployment, configuration and user guides
 * testing
 
-*Technologies: C#, JAVASCRIPT, HTML, CSS, SQL, XML, XSLT, SHAREPOINT 2010, MS SQL, .NET, ASP.NET, ENTITY FRAMEWORK, SHAREPOINT OM, KNOCKOUT JS*
+*Technologies: c#, javascript, html, css, sql, xml, xslt, sharepoint 2010, ms sql, .net, asp.net, entity framework, sharepoint om, knockout js*
 
 === PHP Developper
 _SNCB Holding - 08/2010 – 12/2011_
@@ -227,7 +227,7 @@ My responsibilities were:
 * development for the Open Source Competence Center (Internal framework maintenance, evolution and optimization, new libraries and frameworks developments)
 * peer coaching of developers
 
-*Technologies : PHP, JAVASCRIPT, HTML, CSS, SQL, XML, UML, MYSQL, ZEND FRAMEWORK, DOCTRINE, SYMFONY, JQUERY, SOLR SEARCH ENGINE, EXT JS, JENKINS, PHP UNIT*
+*Technologies: php, javascript, html, css, sql, xml, uml, mysql, zend framework, doctrine, symfony, jquery, solr search engine, ext js, jenkins, php unit*
 
 ==== System and Network Technician 
 _G.E.E.IT SARL - 10/2007 to 06/2009_
@@ -236,13 +236,10 @@ In part time and in parallel of my studies I participated to the day to day main
     
 * System administration (+/- 50 GNU/Linux servers 
 * Network services administration such as DNS, DHCP, Apache, MySQL, SMTP, etc.
-* Network administration (IPv4, switching, routing)
 * Work in datacenters
 * Monitoring
-* Development of administration tools
-* Consulting
 
-*Technologies: GNU/LINUX, WINDOWS SERVER 2003, DNS, DHCP, APACHE, MYSQL, SMTP, NTFS, SMB, IPV4, NAGIOS, CACTI, MUNIN*
+*Technologies: gnu/linux, windows server 2003, dns, dhcp, apache, mysql, smtp, ntfs, smb, ipv4, nagios, cacti, munin*
 
 == Languages
 
