@@ -1,10 +1,10 @@
-:doctitle: Eric Honorez - Software Developer
+:doctitle:  Eric Honorez - Software Developer
 
 ifdef::backend-pdf[:notitle:]
 ifdef::backend-pdf[[discrete]]
 = {doctitle}
 
-I am a passionate developer especially interested about software architecture and design, domain driven design, test driven development, software craftmanship and functional programming. I like to go out of my confort zone, learn new things and share my experiences.
+I am a passionate developer interested about software architecture and design, domain driven design, test driven development, software craftmanship and functional programming. I like to go out of my confort zone, learn new things and share my experiences.
 
 == Info & Contact
 
@@ -23,7 +23,6 @@ I am a passionate developer especially interested about software architecture an
 * Domain driven design
 * Functional programming
 * REST APIs
-* Java
 * JEE
 * Maven
 * Git
@@ -37,33 +36,33 @@ Buy Way Services GEIE is a company financed by Buy Way Personal Finance and Carr
 
 In short Buy Way Services GEIE develops and maintains IT solutions to :
 
-* apply for a loan application;
+* apply for a loan;
 * help sales representatives to study loan application and take a decision;
-* handle the life cycle of loan applications after their origination.
+* handle the life cycle of loans after their origination.
 
 It represents an average of 600 new loans per days accross Belgium and Luxembourg.
 
-Project: Buy Way Personal Finance wanted to offer a generic solution for internet payment on e-commerce website. This project consist of implementing new origination flow exposing public APIs to partners in order to allow them to propose a new payment option when their customer pay their cart. The strenght of the solution is to give real-time decisions by facilitating customer enrollment by using third party services like ItsMe and allow client to sign their contract digitally. 
+Project: Buy Way Personal Finance wanted to offer a solution for internet payment on e-commerce websites. It offers to the customers the possibility to finance their cart by applying for a loan. This project consist of exposing a new origination business process via web API. It enables our partners to easily integrate our solution to their website. The strenght of the solution is to give real-time decisions by facilitating customer enrollment (using third party services like ItsMe) and allowing the clients to sign their contract digitally. 
 
 Team & organisation: The development methodology was scrum. We were 4 developers, 1 scrum master and 1 product owner.
 
 My responsibilities were to:
 
 * help the product owner to design a business solution taking into account the technical requirements;
-* design and document public APIs that exposed to our partners for integration into their e-commerce website;
+* design and document public APIs exposed to our partners for integration into their e-commerce website;
 * design microservices behind these public APIs;
-* build and API portal;
+* build an API portal;
 * lead a developer team of 3;
-** Teach them about hexagonal architecture, event-sourcing, domain driven design, test driven development, functional programming, kafka
-** Coach them by doing mob programming, pair programming and code review;
+** teach them about hexagonal architecture, event-sourcing, domain driven design, test driven development, functional programming, kafka
+** coach them by doing mob programming, pair programming and code review;
 * development of new features;
 
-*Technologies: Domain Driven Design, Test Driven Development, Hexagonal Architecture, REST API, microservices, distributed systems, event sourcing, CQRS, Spring 5 stack (web, jdbc, thymeleaf, test), kafka, kong, vavr (functional programming in Java), git, maven, Jenkins, junit, mockito, cucumber, docker, linux, gerrit, html5, css, js, jquery, asciidoc, jwt.*
+*Technologies: Domain Driven Design, Test Driven Development, Hexagonal Architecture, REST API, microservices, event sourcing, CQRS, Spring 5, kafka, kong, vavr (functional programming in Java), git, maven, Jenkins, junit, mockito, cucumber, docker, linux.*
 
 === Software developer - Technical lead
 _Buy Way Services GEIE - from 01/2017 to 09/2018_
 
-Buy Way Personal Finance wanted to reduce the operational cost of loan application by digitalising the origination process. The digitialisation reduces the operational cost of a loan application by:
+Buy Way Personal Finance wanted to reduce the operational cost of loan application by digitalising the process. The digitialisation reduces the operational cost by:
 
 * capturing all evidences and extracting information using OCR and validating them;
 * signing digitally the contract using Qualified Electronic Signature or Advanced Electronic Signature.
@@ -74,19 +73,19 @@ Team & organisation : The development methodology was scrum. We were 8 developer
 
 My responsibilities were to:
 
-* Capture the functional requirements based on business analysis;
-* Design software architecture;
-* Analysis of integrations with third party services:
-** Documentum - entreprise concent management platform used stored evidences and contract signed digitally;
+* capture the functional requirements based on business analysis;
+* design software architecture;
+* analysis of integrations with third party services:
+** Documentum - entreprise content management platform used stored evidences and contract signed digitally;
 ** Captiva - OCR engine integrated with Documentum used in order to validate evidences;
 ** OneSpan E-Signatures - Advanced Electronic Signature tool used to sign contracts;
-* Design REST APIs;
+* design REST APIs;
 * recrutment and technical interviews of new developers;
 * lead a team of 7 developers;
 * development of new features;
 * release and deploy the new components on the several environments.
 
-*Technologies: microservices, distributed systems, event sourcing, CQRS, Spring 4 stack (web, jdbc, jpa, thymeleaf, test), kafka, git, maven, Jenkins, junit, mockito, cucumber, docker, linux, gerrit, html5, css, js, jquery, asciidoc.*
+*Technologies: microservices, event sourcing, CQRS, Spring 4, kafka, git, maven, Jenkins, junit, mockito, cucumber, docker, linux, asciidoc.*
 
 === [#bw-software-architect]#Software Architect#
 _Buy Way Services GEIE - from 01/2017 to 09/2018_
@@ -102,9 +101,9 @@ My responsibilities were to:
 * organise the progressive migration from the monolithic application to this target architecture;
 * design new services high-level APIs;
 * define new development standard for micro-services;
-* report to top level management;
+* report to top management;
 
-*Technologies: microservices, distributed systems, event sourcing, CQRS, Spring, kafka, git, maven, Jenkins, junit, mockito, cucumber, docker, linux, gerrit, html5, css, js, jquery, asciidoc.*
+*Technologies: microservices, distributed systems, event sourcing, CQRS, kafka.*
 
 === Java Software developer 
 _Buy Way Services GEIE - 05/2014 to 06/2017_
@@ -112,6 +111,8 @@ _Buy Way Services GEIE - 05/2014 to 06/2017_
 My job was to analyse, estimate and implement new features for origination applications:
 
 Team & organisation: ~20 developers splitted accross 5 scrum teams.
+
+My responsibilities were to:
 
 * web application in order to apply for loan application directly from a e-commerce web site;
 * digital signature based on the Belgian id card to sign contracts;
@@ -124,7 +125,9 @@ Team & organisation: ~20 developers splitted accross 5 scrum teams.
 === Part-time release manager 
 _Buy Way Services GEIE - 01/2016 to 06/2017_
 
-Beside beeing software developer I also had to opportunity to be responsible of the release of our applications. We had two releases of our applications per month (hotfix versions not included). My responsibilities were to:
+Beside beeing software developer I also had to opportunity to be responsible of the release of our applications. We had two releases of our applications per month (hotfix versions not included).
+
+My responsibilities were to:
 
 ** deploy the release candidate in Staging environment;
 ** be sure that all features in the release candidate have received the approval from testers to be deployed in production;
@@ -138,25 +141,27 @@ Beside beeing software developer I also had to opportunity to be responsible of 
 === Part-time scrum master
 _Buy Way Services GEIE - 01/2015 - 12/2015_
 
-Beside beeing software developer I had the opportunity to be the part time Scrum master of a team of 6 developers. My responsibilities were to be sure that Scrum practices were correctly applied. I organised the scrum ceremonies (daily stand-up, spring review, spring retrospective and spring planning), maintained the spring backlog and generated the sprint metrics (sprint burndown chart).
+Beside beeing software developer I had the opportunity to be the part time Scrum master of a team of 6 developers. My responsibilities were to be sure that Scrum practices were correctly applied. I organised the scrum ceremonies (daily stand-up, sprint review, sprint retrospective and sprint planning), maintained the sprint backlog and generated the sprint metrics (sprint burndown chart).
 
 Additionnally I also organised Scrum presentations for new developers.
 
 === Full-stack Developer
 _Adneom (internal project) - 11/2013 to 05/2014_
 
-To response to internal HR needs I’m in charge of implementing an internal web tool helping HR to improve the consultant’s evaluations during theirs missions and their career evolution. More especially my tasks were:
+HR team of adneom needed a tool to improve the follow-up of consultant’s evaluations during theirs missions and their career evolution.
 
-* Application development
-* Writing functional and technical analysis
-* Integration of the tool inside the enterprise portal
+My responsiblities were:
 
-*Technologies: REST API, HTML 5, JAVASCRIPT, CSS3, ANGULAR JS 1, JQUERY, LESS, TWITTER BOOTSTRAP, BOWER, RESPONSIVE DESIGN, MYSQL, JAVA, SPRING*
+* application development
+* writing functional and technical analysis
+* integration of the tool inside the enterprise portal
+
+*Technologies: REST API, ANGULAR JS, MYSQL, JAVA, SPRING, HTML 5, JAVASCRIPT, CSS3, ANGULAR JS, JQUERY, LESS, TWITTER BOOTSTRAP, BOWER, RESPONSIVE DESIGN*
 
 === Front-end Developer 
 _BNP Paribas Fortis (as consultant for Adneom) - 06/2013 to 11/2013_
 
-In the Direct Channels  Planning & Development department, my role is to help to improve the multi-channels experience of customers and raise sales through digital channels. More especially my tasks are:
+In the Direct Channels  Planning & Development department, my role were to help to improve the multi-channels experience of customers and raise sales through digital channels. More especially my tasks are:
 
 * Technical analysis and end-to-end development of online projects. Eg:
 ** BNP Paribas Fortis webshops (on the site and in the Easy Banking mobile application)
@@ -165,12 +170,12 @@ In the Direct Channels  Planning & Development department, my role is to help to
 * Landing pages integration (slicing)
 * Marketing email campaigns development
 
-*Technologies: HTML5, JAVASCRIPT, CSS3, JQUERY, UNDERSCORE JS, ANGULAR JS, LESS, TWITTER BOOTSTRAP, RESPONSIVE DESIGN, MESSAGENT, PHOTOSHOP*
+*Technologies: ANGULAR JS, HTML5, JAVASCRIPT, CSS3, JQUERY, UNDERSCORE JS, LESS, TWITTER BOOTSTRAP, RESPONSIVE DESIGN, MESSAGENT, PHOTOSHOP*
 
 === Front-end Developer
 _BPOST (as consultant for Adneom) - 05/2013 - 06/2013_
 
-Development of the BPOST IPO dedicated website. More especially my tasks was:
+Development of the BPOST IPO dedicated website. More especially my tasks were:
 
 * Design slicing and integration
 * Content integration
@@ -180,41 +185,47 @@ Development of the BPOST IPO dedicated website. More especially my tasks was:
 === Full-Stack .NET Developer
 _Delhaize Group (as consultant for Adneom) - 02/2013 – 05/2013_
 
-In a team of 5 persons (developers, tester and project manager) I was involve in the development of a Projects and Portfolios web management tool use by Delhaize Group project managers to track, plan and control theirs projects (Prince 2 inspired). More especially my tasks was:
+In a team of 5 persons (developers, tester and project manager) I was involved in the development of a Projects and Portfolios web management tool used by Delhaize Group project managers to track, plan and control theirs projects (Prince 2 inspired).
 
-* From scratch development of the backend and frontend
+My responsibilities were:
+
+* from scratch development of the backend and frontend
 * SQL stored procedures and functions development
-* Fontend and backend performances optimization
-* Bug fixing
+* fontend and backend performances optimization
+* bug fixing
 
 *Technologies: ASP.NET MVC4, ENTITY FRAMEWORK 5, MS SQL, HTML, CSS, JAVASCRIPT, JQUERY*
 
 === .NET Developer 
 _SNCB Holding - 01/2012 to 02/2013_
 
-My role in the SharePoint Competence Center was the end-to-end development of custom business solutions for all SNCB department and based on the SharePoint platform. More especially my tasks was:
+My role in the SharePoint Competence Center was the end-to-end development of custom business solutions for all SNCB department and based on the SharePoint platform.
 
-* End-to-End development of custom solutions based on Microsoft SharePoint 2010 E.g. :
-** Personal Health Care portal for all SNCB employees (.NET solution integrated in SharePoint)
+My responsibilities were:
+
+* end-to-end development of custom solutions based on Microsoft SharePoint 2010 E.g. :
+** personal Health Care portal for all SNCB employees (.NET solution integrated in SharePoint)
 ** ICTRA intranet (branding solution)
-** Document Management solutions (for HR department and Infrabel)
-* Writing of development, deployment, configuration and user guides
-* Testing
+** document Management solutions (for HR department and Infrabel)
+* writing of development, deployment, configuration and user guides
+* testing
 
 *Technologies: C#, JAVASCRIPT, HTML, CSS, SQL, XML, XSLT, SHAREPOINT 2010, MS SQL, .NET, ASP.NET, ENTITY FRAMEWORK, SHAREPOINT OM, KNOCKOUT JS*
 
 === PHP Developper
 _SNCB Holding - 08/2010 – 12/2011_
 
-My main role as developer in the PHP Competence Center was the end-to-end development of custom business solutions for all SNCB department and based on the LAMP stack. More especially my tasks was:
+My main role as developer in the PHP Competence Center was the end-to-end development of custom business solutions for all SNCB departments.
 
-* End-to-End development of custom solutions based on the LAMP Stack. Eg:
-** Event organization tool for stations
-** Risk analysis tool
-** Infrastructure tools
-* Writing of functional and technical analysis 
-* As technical leader I made some researches and developments for the Open Source Competence Center (Internal framework maintenance, evolution and optimization, new libraries and frameworks developments)
-* Peer coaching of developers (as technical leader)
+My responsibilities were:
+
+* end-to-end development of custom solutions based on the LAMP Stack. Eg:
+** event organization tool for stations
+** risk analysis tool
+** infrastructure tools
+* writing functional and technical analysis 
+* development for the Open Source Competence Center (Internal framework maintenance, evolution and optimization, new libraries and frameworks developments)
+* peer coaching of developers
 
 *Technologies : PHP, JAVASCRIPT, HTML, CSS, SQL, XML, UML, MYSQL, ZEND FRAMEWORK, DOCTRINE, SYMFONY, JQUERY, SOLR SEARCH ENGINE, EXT JS, JENKINS, PHP UNIT*
 
@@ -252,7 +263,7 @@ In part time and in parallel of my studies I participated to the day to day main
 
 |=== 
 
-== Education, trainings, confererences and certifications
+== Education, trainings, conferences and certifications
 
 * 02/2018: Domain Driven Design Europe
 * 11/2017: Devoxx Belgium
