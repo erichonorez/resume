@@ -163,7 +163,7 @@ My responsiblities were:
 *Technologies: java, spring, rest api, angular js, mysql, html 5, jquery, less, twitter bootstrap, bower, responsive design*
 
 === Front-end Developer 
-_BNP Paribas Fortis (as consultant for Adneom) - 06/2013 to 11/2014_
+_BNP Paribas Fortis (as consultant for Adneom) - 08/2013 to 11/2014_
 
 In the Direct Channels Planning & Development department, my role were to help to improve the multi-channels experience of customers and raise sales through digital channels.My responsibilities were to analyse and develop web applications such as the BNP Paribas Fortis webshop on the web site and in the Easy Banking mobile application.
 
@@ -171,15 +171,8 @@ Team and organisation: 10 developers, 1 technical lead, 1 project manager.
 
 *Technologies: angular js, html5, jquery, underscore js, less, twitter bootstrap, responsive design, messagent*
 
-=== Front-end Developer
-_BPOST (as consultant for Adneom) - 05/2013 - 06/2013_
-
-My responsibility were to develop the BPOST IPO dedicated website.
-
-*Technologies: jekyll, html, css, twitter bootstrap, jquery*
-
 === .NET Developer
-_Delhaize Group (as consultant for Adneom) - 02/2013 – 05/2013_
+_Delhaize Group (as consultant for Adneom) - 02/2013 – 07/2013_
 
 The project and portfolio management team needed and tool to help them to track, plan and control their projects following Prince 2 principles.
 
