@@ -4,7 +4,7 @@ ifdef::backend-pdf[:notitle:]
 ifdef::backend-pdf[[discrete]]
 = {doctitle}
 
-I am a passionate developer interested about software architecture and design, domain driven design, test driven development, software craftmanship and functional programming. I like to go out of my confort zone, learn new things and share my experiences.
+I am a passionate developer interested about software architecture and design, domain driven design, test driven development, software craftmanship and functional programming. I am a continuous learner and I like to share my experiences.
 
 == Info & Contact
 
@@ -37,12 +37,12 @@ Buy Way Services GEIE is a company financed by Buy Way Personal Finance and Carr
 In short Buy Way Services GEIE develops and maintains IT solutions to :
 
 * apply for a loan;
-* help sales representatives to study loan application and take a decision;
+* help sales representatives to study loan applications and take a decision;
 * handle the life cycle of loans after their origination.
 
-It represents an average of 600 new loans per days accross Belgium and Luxembourg.
+It represents an average of 600 new loans per day accross Belgium and Luxembourg.
 
-Project: Buy Way Personal Finance wanted to offer a solution for internet payment on e-commerce websites. It offers to the customers the possibility to finance their cart by applying for a loan. This project consist of exposing a new origination business process via web API. It enables our partners to easily integrate our solution to their website. The strenght of the solution is to give real-time decisions by facilitating customer enrollment (using third party services like ItsMe) and allowing the clients to sign their contract digitally. 
+Project: Buy Way Personal Finance wanted to offer a product for internet payment on e-commerce websites. It offers to the customers the possibility to finance their cart by applying for a loan. This project consist of exposing a new origination business process via web API. It enables our partners to easily integrate our product to their website. The strenght of the solution is to give real-time decisions by facilitating customer enrollment (using third party services like ItsMe) and allowing the clients to sign their contract digitally. 
 
 Team & organisation: The development methodology was scrum. We were 4 developers, 1 scrum master and 1 product owner.
 
@@ -55,14 +55,14 @@ My responsibilities were to:
 * lead a developer team of 3;
 ** teach them about hexagonal architecture, event-sourcing, domain driven design, test driven development, functional programming, kafka
 ** coach them by doing mob programming, pair programming and code review;
-* development of new features;
+* development of new features.
 
 *Technologies: Domain Driven Design, Test Driven Development, Hexagonal Architecture, REST API, microservices, event sourcing, CQRS, Spring 5, kafka, kong, vavr (functional programming in Java), git, maven, Jenkins, junit, mockito, cucumber, docker, linux.*
 
 === Software developer - Technical lead
 _Buy Way Services GEIE - from 01/2017 to 09/2018_
 
-Buy Way Personal Finance wanted to reduce the operational cost of loan application by digitalising the process. The digitialisation reduces the operational cost by:
+Buy Way Personal Finance wanted to reduce the operational cost of loan application by digitalising the process. This digitialisation reduces the operational cost by:
 
 * capturing all evidences and extracting information using OCR and validating them;
 * signing digitally the contract using Qualified Electronic Signature or Advanced Electronic Signature.
@@ -74,18 +74,19 @@ Team & organisation : The development methodology was scrum. We were 8 developer
 My responsibilities were to:
 
 * capture the functional requirements based on business analysis;
-* design software architecture;
-* analysis of integrations with third party services:
+* analyse the integrations with third party services:
 ** Documentum - entreprise content management platform used stored evidences and contract signed digitally;
 ** Captiva - OCR engine integrated with Documentum used in order to validate evidences;
 ** OneSpan E-Signatures - Advanced Electronic Signature tool used to sign contracts;
 * design REST APIs;
 * recrutment and technical interviews of new developers;
 * lead a team of 7 developers;
+** teach them about hexagonal architecture, event-sourcing, domain driven design;
+** pair programming and code review;
 * development of new features;
 * release and deploy the new components on the several environments.
 
-*Technologies: microservices, event sourcing, CQRS, Spring 4, kafka, git, maven, Jenkins, junit, mockito, cucumber, docker, linux, asciidoc.*
+*Technologies: microservices, event sourcing, CQRS, Spring 4, kafka, git, maven, Jenkins, junit, mockito, cucumber, docker, bash, linux, asciidoc.*
 
 === [#bw-software-architect]#Software Architect#
 _Buy Way Services GEIE - from 01/2017 to 09/2018_
@@ -97,11 +98,11 @@ Team & organisation: 1 the enterprise architect, 1 strategy manager and an exter
 My responsibilities were to:
 
 * design a new software architecture that would allow modernisation and modularisation;
-** The target architecture was a event-driven microservice architecture based on Apache Kafka and Spring.
+** The target architecture was an event-driven microservice architecture based on Apache Kafka and Spring.
 * organise the progressive migration from the monolithic application to this target architecture;
 * design new services high-level APIs;
 * define new development standard for micro-services;
-* report to top management;
+* report to top management.
 
 *Technologies: microservices, distributed systems, event sourcing, CQRS, kafka.*
 
@@ -114,11 +115,10 @@ Team & organisation: ~20 developers splitted accross 5 scrum teams.
 
 My responsibilities were to:
 
-* web application in order to apply for loan application directly from a e-commerce web site;
-* digital signature based on the Belgian id card to sign contracts;
-* document management system in order to handle the digitialisation of loan contracts;
-* customisation of existing loan application flow for specific customers;
-
+* develop a web application in order to apply for loan application directly from a e-commerce web site;
+* implement the digital signature based on the Belgian id card to sign contracts;
+* develop a custom document management system in order to handle the digitialisation of loan contracts;
+* customise the existing loan application flows for specific customers.
 
 *Technolgies: JEE 7 stack (EJB, CDI, JMS, JPA, JAX-RS, JAX-B), Vaadin 6, maven, git, jenkins, oracle, junit, mockito, cucumber, selenium, Glassfish 3, Wildfly 10, docker, gerrit, linux.*
 
@@ -126,6 +126,8 @@ My responsibilities were to:
 _Buy Way Services GEIE - 01/2016 to 06/2017_
 
 Beside beeing software developer I also had to opportunity to be responsible of the release of our applications. We had two releases of our applications per month (hotfix versions not included).
+
+Team & organisation: ~20 developers splitted accross 5 scrum teams.
 
 My responsibilities were to:
 
@@ -136,7 +138,7 @@ My responsibilities were to:
 ** maintain and evolve the version control branching model depdending on the needs;
 ** code review.
 
-*Technologies: maven, git, gerrit, linux, jenkins.*
+*Technologies: maven, git, gerrit, bash, linux, jenkins.*
 
 === Part-time scrum master
 _Buy Way Services GEIE - 01/2015 - 12/2015_
@@ -148,51 +150,47 @@ Additionnally I also organised Scrum presentations for new developers.
 === Full-stack Developer
 _Adneom (internal project) - 11/2013 to 05/2014_
 
-HR team of adneom needed a tool to improve the follow-up of consultant’s evaluations during theirs missions and their career evolution.
+HR team of Adneom needed a tool to improve the follow-up of consultant’s evaluations during theirs missions and their career evolution.
+
+Team: 3 developers, 1 project manager.
 
 My responsiblities were:
 
-* application development
-* writing functional and technical analysis
-* integration of the tool inside the enterprise portal
+* application development;
+* writing functional and technical analysis;
+* integration of the tool inside the enterprise portal.
 
-*Technologies: rest api, angular js, mysql, java, spring, html 5, javascript, css3, angular js, jquery, less, twitter bootstrap, bower, responsive design*
+*Technologies: java, spring, rest api, angular js, mysql, html 5, jquery, less, twitter bootstrap, bower, responsive design*
 
 === Front-end Developer 
-_BNP Paribas Fortis (as consultant for Adneom) - 06/2013 to 11/2013_
+_BNP Paribas Fortis (as consultant for Adneom) - 06/2013 to 11/2014_
 
-In the Direct Channels  Planning & Development department, my role were to help to improve the multi-channels experience of customers and raise sales through digital channels. More especially my tasks are:
+In the Direct Channels Planning & Development department, my role were to help to improve the multi-channels experience of customers and raise sales through digital channels.My responsibilities were to analyse and develop web applications such as the BNP Paribas Fortis webshop on the web site and in the Easy Banking mobile application.
 
-* Technical analysis and end-to-end development of online projects. Eg:
-** BNP Paribas Fortis webshops (on the site and in the Easy Banking mobile application)
-** Direct sales
-* Work out the online customer experience
-* Landing pages integration (slicing)
-* Marketing email campaigns development
+Team and organisation: 10 developers, 1 technical lead, 1 project manager.
 
-*Technologies: angular js, html5, javascript, css3, jquery, underscore js, less, twitter bootstrap, responsive design, messagent, photoshop*
+*Technologies: angular js, html5, jquery, underscore js, less, twitter bootstrap, responsive design, messagent*
 
 === Front-end Developer
 _BPOST (as consultant for Adneom) - 05/2013 - 06/2013_
 
-Development of the BPOST IPO dedicated website. More especially my tasks were:
+My responsibility were to develop the BPOST IPO dedicated website.
 
-* Design slicing and integration
-* Content integration
+*Technologies: jekyll, html, css, twitter bootstrap, jquery*
 
-*Technologies: html, css, twitter bootstrap, jquery, photoshop*
-
-=== Full-Stack .NET Developer
+=== .NET Developer
 _Delhaize Group (as consultant for Adneom) - 02/2013 – 05/2013_
 
-In a team of 5 persons (developers, tester and project manager) I was involved in the development of a Projects and Portfolios web management tool used by Delhaize Group project managers to track, plan and control theirs projects (Prince 2 inspired).
+The project and portfolio management team needed and tool to help them to track, plan and control their projects following Prince 2 principles.
+
+Team & organisation: 3 developers, 1 tester and 1 project manager.
 
 My responsibilities were:
 
-* from scratch development of the backend and frontend
-* SQL stored procedures and functions development
-* fontend and backend performances optimization
-* bug fixing
+* from scratch development of the back-end and front-end;
+* SQL stored procedures and functions development;
+* fontend and backend performances optimization;
+* bug fixing.
 
 *Technologies: asp.net mvc4, entity framework 5, ms sql, html, css, javascript, jquery*
 
@@ -220,12 +218,11 @@ My main role as developer in the PHP Competence Center was the end-to-end develo
 My responsibilities were:
 
 * end-to-end development of custom solutions based on the LAMP Stack. Eg:
-** event organization tool for stations
-** risk analysis tool
-** infrastructure tools
-* writing functional and technical analysis 
-* development for the Open Source Competence Center (Internal framework maintenance, evolution and optimization, new libraries and frameworks developments)
-* peer coaching of developers
+** event organization tool for stations;
+** risk analysis tool;
+** infrastructure tools;
+* writing functional and technical analysis; 
+* development for the Open Source Competence Center (Internal framework maintenance, evolution and optimization, new libraries and frameworks developments).
 
 *Technologies: php, javascript, html, css, sql, xml, uml, mysql, zend framework, doctrine, symfony, jquery, solr search engine, ext js, jenkins, php unit*
 
@@ -234,10 +231,10 @@ _G.E.E.IT SARL - 10/2007 to 06/2009_
 
 In part time and in parallel of my studies I participated to the day to day maintenance and evolution of the enterprise’s clients network services.
     
-* System administration (+/- 50 GNU/Linux servers 
-* Network services administration such as DNS, DHCP, Apache, MySQL, SMTP, etc.
-* Work in datacenters
-* Monitoring
+* System administration (+/- 50 GNU/Linux servers;
+* Network services administration such as DNS, DHCP, Apache, MySQL, SMTP;
+* Work in datacenters;
+* Monitoring.
 
 *Technologies: gnu/linux, windows server 2003, dns, dhcp, apache, mysql, smtp, ntfs, smb, ipv4, nagios, cacti, munin*
 
